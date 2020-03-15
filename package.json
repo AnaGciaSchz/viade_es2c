@@ -29,11 +29,15 @@
     "normalize.css": "^8.0.1",
     "optimize-css-assets-webpack-plugin": "5.0.1",
     "pnp-webpack-plugin": "1.1.0",
+    "prop-types": "latest",
     "react": "16.8.4",
+    "react-addons-update": "latest",
     "react-app-polyfill": "^0.2.2",
     "react-click-outside": "^3.0.1",
+    "react-cucumber": "^1.0.7",
     "react-dev-utils": "^7.0.1",
     "react-dom": "16.8.4",
+    "react-google-maps": "latest",
     "react-i18next": "^10.1.2",
     "react-modal": "^3.8.2",
     "react-router-dom": "^4.3.1",
@@ -42,10 +46,7 @@
     "react-transition-group": "^4.1.1",
     "shacl-js": "0.0.1",
     "solid-auth-client": "^2.3.0",
-    "styled-components": "^4.1.3",
-    "prop-types": "latest",
-    "react-addons-update": "latest",
-    "react-google-maps": "latest"
+    "styled-components": "^4.1.3"
   },
   "scripts": {
     "start": "node scripts/start.js",
